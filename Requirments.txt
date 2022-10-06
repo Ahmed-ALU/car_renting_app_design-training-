@@ -1,0 +1,11 @@
+Functional Requirments:
+	- The app must show the amount of cars rented and available whenever asked
+	- The app must rent cars when it is asked by a customer
+	- The app must return cars when it is asked by a customer
+	- The app must refuse to rent cars if there is no cars
+	- The app muust record any payments from the customers
+	- The app must record any outpayments and the reason for it
+	- The app must generate a financial report for "at least" the last 30 days
+	- The app must automatically fine the delayed customers when paying/retrning if delayed
+	- The app must show the customer the expected amount he will pay before renting.
+

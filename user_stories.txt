@@ -1,0 +1,12 @@
+As a renter I want to know how many cars I have and how many I rented so that I can monitor my buisness
+As a renter I want to rent the cars that I currently have
+As a renter I want to get paid from the customers when I rent them the cars 
+As a renter I want to monitor the incomes and the outcomes of my buisness so that I can make a report at the end of each month
+As a renter I want to return the cars that I have rented and add it to the current cars
+As a renter I want to fine the customers on daily basis if they delayed returning the cars
+As a customer I want to rent a car
+As a customer I want to reurn a car
+As a customer I want to pay for the car when I rent it
+As a customer I want to know the amount I will pay before paying it
+
+

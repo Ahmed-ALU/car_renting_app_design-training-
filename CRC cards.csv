@@ -1,0 +1,7 @@
+Class,Responcibility,Collaborator
+renter,"rent cars, recive money, return cars","car, customer"
+car,,"renter, customer"
+customer,pay,"car, renter"
+treasury,"hold money, give money",renter
+reporter,"store informations, generate report",renter
+company,,"renter, customer, car, treasury, reporter"
